@@ -10,14 +10,14 @@ tags: []
 
 <div class="sidebar-menu">
     <h6>Nội dung bài viết</h6>
-    <a href="#110-lợi-ích-khi-tập-theo-phương-pháp-circuit-training">1. 10 lợi ích khi tập theo phương pháp circuit training</a>
-    <a href="#2các-bước-để-bắt-đầu-circuit-training-hiệu-quả">2. Các bước để bắt đầu Circuit Training hiệu quả</a>
+    <a href="#1-10-lợi-ích-khi-tập-theo-phương-pháp-circuit-training">1. 10 lợi ích khi tập theo phương pháp circuit training</a>
+    <a href="#2-các-bước-để-bắt-đầu-circuit-training-hiệu-quả">2. Các bước để bắt đầu Circuit Training hiệu quả</a>
 </div>
 
 <div class="mobile-menu">
     <h3>Nội dung bài viết</h3>
-    <ul><a href="#110-lợi-ích-khi-tập-theo-phương-pháp-circuit-training">1. 10 lợi ích khi tập theo phương pháp circuit training</a></ul>
-    <ul><a href="#2các-bước-để-bắt-đầu-circuit-training-hiệu-quả">2. Các bước để bắt đầu Circuit Training hiệu quả</a></ul>
+    <ul><a href="#1-10-lợi-ích-khi-tập-theo-phương-pháp-circuit-training">1. 10 lợi ích khi tập theo phương pháp circuit training</a></ul>
+    <ul><a href="#2-các-bước-để-bắt-đầu-circuit-training-hiệu-quả">2. Các bước để bắt đầu Circuit Training hiệu quả</a></ul>
 </div>
 
 #### 1. 10 lợi ích khi tập theo phương pháp circuit training
